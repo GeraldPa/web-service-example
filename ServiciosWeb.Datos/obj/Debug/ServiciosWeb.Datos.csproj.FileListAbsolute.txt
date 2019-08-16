@@ -1,0 +1,10 @@
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.dll.config
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.dll
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.pdb
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.dll
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Dominio\bin\Debug\ServiciosWeb.Dominio.dll
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Dominio\bin\Debug\ServiciosWeb.Dominio.pdb
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.dll
+C:\Users\Bioxor\documents\visual studio 2015\Projects\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.pdb
